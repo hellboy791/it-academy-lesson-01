@@ -1,6 +1,6 @@
 package edu.training.jc.simple_output;
 
-class TableOutput{
+public class TableOutput{
 	public static void main(String[] args) {
 		System.out.println("---------------------------------");
 		System.out.println("|\tid\t|\trole\t|");
